@@ -20,7 +20,7 @@
 
 ## Overview
 
-This report presents a comprehensive financial analysis of India’s top 500 companies, focusing on critical metrics such as **market capitalization** and **quarterly sales**. Leveraging an interactive dashboard, the analysis provides actionable insights that empower stakeholders to:
+This report presents a comprehensive **Financial Analysis** of **India’s top 500 companies**, focusing on critical metrics such as **market capitalization** and **quarterly sales**. Leveraging an interactive dashboard, the analysis provides actionable insights that empower stakeholders to:
 
 - Understand market trends and company performance.  
 - Identify market leaders and opportunities for strategic investments.  
@@ -36,7 +36,7 @@ The primary goals of this analysis are to:
 
 1. **Evaluate Financial Metrics**: Analyze key metrics like market capitalization, quarterly sales, and their correlations.  
 2. **Identify Market Leaders**: Highlight top-performing companies across multiple parameters.  
-3. **Segment Companies**: Categorize firms into **Large Cap**, **Mid Cap**, and **Small Cap** segments for comparative insights.  
+3. **Segment Companies**: Categorize firms into Large Cap, Mid Cap, and Small Cap segments for comparative insights.  
 4. **Generate Actionable Insights**: Deliver data-driven recommendations to support strategic decision-making.
 
 ---
@@ -53,7 +53,7 @@ The dataset includes detailed financial data for 500 leading Indian companies. K
 - **Quarterly Sales Share (%)**: Company’s contribution to total sales.  
 - **Market Cap to Sales Ratio**: Indicator of valuation efficiency.  
 - **Annual Sales Estimate**: Projected yearly sales based on quarterly trends.  
-- **Size Segment**: Classification into **Large Cap**, **Mid Cap**, or **Small Cap**.  
+- **Size Segment**: Classification into Large Cap, Mid Cap, or Small Cap.  
 - **Market Cap Rank**: Rank based on market cap.  
 - **Sales Rank**: Rank based on quarterly sales.  
 
@@ -86,27 +86,27 @@ The interactive dashboard includes:
 Key findings from the analysis:  
 
 1. **Market Leaders**:  
-   - Reliance Industries: Highest Market Cap at ₹15,83,437 crore.  
-   - Indian Oil Corporation: Highest Quarterly Sales at ₹1,10,667 crore.  
+   - Reliance Industries: **Highest Market Cap** at **₹15,83,437 crore**.  
+   - Indian Oil Corporation: **Highest Quarterly Sales** at **₹1,10,667 crore**.  
 
 2. **Sector Performance**:  
-   - **IT** and **Energy** sectors dominate market capitalization and sales.  
+   - IT and Energy sectors dominate market capitalization and sales.  
    - Top-performing companies primarily belong to **Energy**, **IT**, and **Banking** sectors.  
 
 3. **Correlation**:  
-   - A strong positive correlation (0.63) exists between Market Cap and Quarterly Sales, highlighting that larger companies generally achieve higher sales.  
+   - A **strong positive correlation** (0.63) exists between Market Cap and Quarterly Sales, highlighting that larger companies generally achieve higher sales.  
 
 4. **Market Segmentation**:  
    - 87% of companies are classified as **Small Cap**, indicating significant growth potential.  
 
 5. **Quartile Performance**:  
-   - Top quartile companies consistently outperform lower quartiles across all financial metrics.
+   - **Top quartile companies** consistently **outperform lower quartiles** across all financial metrics.
 
 ---
 
 ## Conclusion
 
-The analysis underscores the dominance of large-cap companies like Reliance Industries and Indian Oil Corporation in market performance. While **Small Cap** companies constitute the majority, they present considerable growth opportunities.  
+The analysis underscores the dominance of large-cap companies like Reliance Industries and Indian Oil Corporation in market performance. While Small Cap companies constitute the majority, they present considerable growth opportunities.  
 
 The findings emphasize the positive correlation between market cap and sales, reaffirming that financial stability and market share are closely aligned. This analysis serves as a strategic guide for businesses and investors seeking growth and stability in the competitive market.
 
@@ -116,8 +116,8 @@ The findings emphasize the positive correlation between market cap and sales, re
 
 1. **Focus on Market Leaders**: Companies like Reliance and Indian Oil demonstrate stability and robust financial performance.  
 2. **Invest in Growth Segments**: Small Cap companies have substantial potential for future growth.  
-3. **Improve Efficiency**: Encourage companies to optimize their **Market Cap to Sales Ratio**.  
-4. **Sectoral Opportunities**: The **IT** and **Energy** sectors are consistently high-performing and should be prioritized for investments.  
+3. **Improve Efficiency**: Encourage companies to optimize their Market Cap to Sales Ratio.  
+4. **Sectoral Opportunities**: The IT and Energy sectors are consistently high-performing and should be prioritized for investments.  
 5. **Diversified Strategy**: Balance investments across Large Cap, Mid Cap, and Small Cap segments to mitigate risks and maximize returns.
 
 ---
