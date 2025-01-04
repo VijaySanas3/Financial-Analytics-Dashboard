@@ -1,11 +1,6 @@
-# Financial Analytics Report
-
-![Financial Insights for Strategic Growth](path/to/image.png)
-
-## Surviving the Competition: Financial Insights for Strategic Growth
-
-**Author:** Vijay Rajaram Sanas  
-**Date:** November 22, 2024  
+# Surviving the Competition: Financial Insights for Strategic Growth
+---
+![Dashboard](Dashboard.png)
 
 ---
 
