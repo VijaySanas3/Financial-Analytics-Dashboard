@@ -20,7 +20,7 @@
 
 ## Overview
 
-This report presents a comprehensive **Financial Analysis** of **India’s top 500 companies**, focusing on critical metrics such as **market capitalization** and **quarterly sales**. Leveraging an interactive dashboard, the analysis provides actionable insights that empower stakeholders to:
+This report presents a comprehensive **Financial Analysis** of **India’s top 500 companies**, focusing on critical metrics such as **Market Capitalization** and **Quarterly Sales**. Leveraging an interactive dashboard, the analysis provides actionable insights that empower stakeholders to:
 
 - Understand market trends and company performance.  
 - Identify market leaders and opportunities for strategic investments.  
